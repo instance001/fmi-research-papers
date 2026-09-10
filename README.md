@@ -122,6 +122,12 @@ Preprint v0.1 — not peer reviewed
 
 Related repositories: [Cognitive Theology](https://github.com/instance001/cognitive_theology)
 
+### [Shared Trajectory: Plural Identity, Institutional Boundaries, and the Conditions of Collective Coordination](shared-trajectory-attributed-v0.1.docx)
+
+Develops a framework for preserving meaningful diversity while maintaining coordination across systems whose participants remain mutually dependent.
+
+Preprint v0.1 — not peer reviewed
+
 ### [Structural AI Teaming Beyond Prompt Templates](structural-ai-teaming-philpapers-preprint-v0.1.pdf)
 
 Reframes AI-user guidance around transferable interaction signals and boundary-aware prompt assets rather than reusable prompt templates.
