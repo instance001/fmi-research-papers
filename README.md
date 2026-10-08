@@ -2,7 +2,7 @@
 
 This repository collects public author-manuscript preprints by Anthony Paterson and is intended to grow as further papers are prepared for public release.
 
-Each PDF is an outward-facing `v0.1` preprint and is marked as not peer reviewed. The corresponding journal-submission manuscripts, title pages, and portal materials are not included here.
+Each PDF is an outward-facing public preprint and is marked as not peer reviewed. The corresponding journal-submission manuscripts, title pages, and portal materials are not included here.
 
 ## Papers
 
@@ -57,6 +57,12 @@ Sets out falsifiable conditions for claims about deferred structure, reorganizat
 Preprint v0.1 — not peer reviewed
 
 Related repositories: [Entropy Folding / Eureka Cascade Hypothesis](https://github.com/instance001/entropy-folding-eureka-cascade-hypothesis), [EF Engine](https://github.com/instance001/ef-engine)
+
+### [The Erosion of the Majority: Cognitive Outsourcing, Practised Competence, and the Population-Level Preservation Problem](the-erosion-of-the-majority-public-preprint.pdf)
+
+Examines how widespread AI delegation could reduce the population-level practice and distribution of cognitive competence without reducing human biological capacity.
+
+Public preprint — not peer reviewed
 
 ### [Evidence-Bearing Host Memory for LLM Assistants](evidence-bearing-host-memory-philpapers-preprint-v0.1.pdf)
 
@@ -135,6 +141,12 @@ Reframes AI-user guidance around transferable interaction signals and boundary-a
 Preprint v0.1 — not peer reviewed
 
 Related repositories: [AI Teaming Framework](https://github.com/instance001/ai-teaming-framework), [Model Behaviour Toolkit](https://github.com/instance001/model-behaviour-toolkit)
+
+### [The Vanishing Middle: Developmental Co-Building in the Age of Autonomous AI Agents](the-vanishing-middle-public-preprint.pdf)
+
+Argues for preserving human-AI co-building as a visible developmental practice as autonomous agents make direct participation in software construction less necessary.
+
+Public preprint — not peer reviewed
 
 ### [Generality Claims and the Limits of Closed Optimization](the-agi-folly-philpapers-preprint-v0.1.pdf)
 
