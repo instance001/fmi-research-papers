@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If this repository informed your work, please cite the canonical repository."
+title: "fmi-research-papers"
+url: "https://github.com/instance001/fmi-research-papers"
+repository-code: "https://github.com/instance001/fmi-research-papers"
+abstract: "Repository-level citation metadata; see PROVENANCE.md for evidence limits."
