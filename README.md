@@ -96,11 +96,13 @@ Preprint v0.1 — not peer reviewed
 
 Related repositories: [chatty-edu](https://github.com/instance001/chatty-edu)
 
-### [The Optional Human: Procedural Displacement and the Erosion of Meaningful Control in Agentic AI Systems](The_Optional_Human_Draft_v0.1.md)
+### [The Optional Human: Procedural Displacement and the Erosion of Meaningful Control in Agentic AI Systems](The_Optional_Human_Draft_v0.2.md)
 
 Uses an engineering audit to examine how AI systems can complete a task while bypassing a decision the human reserved or failing to enforce a constraint the human approved.
 
-Working paper v0.1 — not peer reviewed
+Version 0.2 adds an externally reported case in which Claude Code permission rules retained commands containing credentials and appeared in public repositories.
+
+Working paper v0.2 — not peer reviewed. [Earlier draft (v0.1)](The_Optional_Human_Draft_v0.1.md)
 
 ### [Reducer-Owned Truth and Failure-Vaulted Retries: Host-Layer Primitives for LLM-Integrated Interactive Systems](reducer-owned-truth-failure-vaults-philpapers-preprint-v0.1.pdf)
 
