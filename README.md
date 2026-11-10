@@ -96,6 +96,12 @@ Preprint v0.1 — not peer reviewed
 
 Related repositories: [chatty-edu](https://github.com/instance001/chatty-edu)
 
+### [The Optional Human: Procedural Displacement and the Erosion of Meaningful Control in Agentic AI Systems](The_Optional_Human_Draft_v0.1.md)
+
+Uses an engineering audit to examine how AI systems can complete a task while bypassing a decision the human reserved or failing to enforce a constraint the human approved.
+
+Working paper v0.1 — not peer reviewed
+
 ### [Reducer-Owned Truth and Failure-Vaulted Retries: Host-Layer Primitives for LLM-Integrated Interactive Systems](reducer-owned-truth-failure-vaults-philpapers-preprint-v0.1.pdf)
 
 Proposes host-layer primitives that make retries and state updates answerable to reducer-owned truth and preserved failure evidence.
